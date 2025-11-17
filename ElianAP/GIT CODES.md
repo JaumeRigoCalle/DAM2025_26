@@ -24,7 +24,7 @@ git clone <HTTPS>
 
 **PRIMER PASO PARA GUARDADO**
 
-git add . 
+git add .
 
 
 
@@ -36,7 +36,7 @@ git commit -m <mensaje> guarda los cambios
 
 **SUBIR COMMIT GUARDADO A GITHUB**
 
-git push \[origin master]
+git push \[origin]
 
 
 
@@ -60,7 +60,7 @@ git switch -c <NOMBRE DE LA RAMA>
 
 **VER RAMAS GUARDADAS**
 
-git Branch 
+git Branch
 
 
 
@@ -78,7 +78,5 @@ git switch master cambiar a el ultimo commit
 
 **SOLO PARA NUEVOS PROYECTOS (usando la web de GitHub y creando un nuevo repositorio dentro)**
 
-git remote add origin <repositorio GITHUB> 
-
-
+git remote add origin <repositorio GITHUB>
 
